@@ -19,18 +19,18 @@ This repository contains the code and documentation for our Automatic Speech Rec
 - **Model Design:** Designed a deep learning architecture tailored for speech recognition tasks, optimizing for both accuracy and efficiency.
 - **Training Strategy:** Employed early stopping, learning rate reduction, and model checkpointing during training to prevent overfitting and improve performance.
 - **Reproducibility:** Provided all necessary scripts, configurations, and model checkpoints to ensure reproducibility of results.
-- **Supplementary Option:** `arbml/wav2vec2-large-xlsr-53-arabic-egyptian` Used for Arabic (Egyptian dialect) speech recognition  to supplement and augment the overall system's capabilities.
+- **Supplementary Option:** `arbml/wav2vec2-large-xlsr-53-arabic-egyptian` used for Arabic (Egyptian dialect) speech recognition  to supplement and augment the overall system's capabilities.
   
 ---
 
 ## Technical Details:
 - **Frameworks and Libraries:** Utilized TensorFlow/Keras for deep learning, librosa for audio processing, and various utility libraries for data handling and evaluation.
 - **Code Structure:** Organized codebase into modular components for data preprocessing, model training, evaluation, and inference.
-- **Folder Structure:** Utilized chunked folder organization for the train dataset to manage large data volumes efficiently.
+- **Folder Structure:** Utilized chunked folder organization for the training dataset to manage large data volumes efficiently.
 
 ---
 
 ## Team Members:
 - **Team Leader:** [Abdelrahman Eldaba](https://www.linkedin.com/in/abdelrahmaneldaba)
-- **Team Members:** [Ahmed Selem](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Mohammed Hamza](https://www.linkedin.com/in/mohammed-hamza-4184b2251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Osama Abo-Bakr](https://www.linkedin.com/in/osama-abo-bakr-293614259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D), [Sayed Ali](https://www.linkedin.com/in/sayed-ali-482668262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D)
+- **Team Members:** [Ahmed Selem](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Mohammed Hamza](https://www.linkedin.com/in/mohammed-hamza-4184b2251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Osama Abo-Bakr](https://www.linkedin.com/in/osama-abo-bakr-293614259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D) | [Sayed Ali](https://www.linkedin.com/in/sayed-ali-482668262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D)
 
