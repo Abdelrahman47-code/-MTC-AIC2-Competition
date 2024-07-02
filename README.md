@@ -1,8 +1,6 @@
-# MTC-AIC2-Competition
----
 # Automatic Speech Recognition (ASR) System for Egyptian Dialects
 
-This repository contains the code and documentation for our Automatic Speech Recognition (ASR) system developed specifically for Egyptian dialects, created as a challenge of the MTC AIC2 Competition. The dataset consists of a collection of Egyptian Arabic speech recordings, segmented into chunks for efficient processing and training. The system preprocesses audio data, trains a deep learning model, and provides transcription capabilities tailored to the nuances of Egyptian Arabic dialects.
+This repository contains the code and documentation for our Automatic Speech Recognition (ASR) system developed specifically for Egyptian dialects, created as a challenge of the **MTC AIC-2 Competition**. The dataset consists of a collection of Egyptian Arabic speech recordings, segmented into chunks for efficient processing and training. The system preprocesses audio data, trains a deep learning model, and provides transcription capabilities tailored to the nuances of Egyptian Arabic dialects.
 
 ![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*KndD0pTUyTHI8p9-f_u_6g.jpeg)
 
