@@ -33,6 +33,6 @@ This repository contains the code and documentation for our Automatic Speech Rec
 ---
 
 ## Team Members:
-- **Team Lead:** [Abdelrahman Eldaba](https://www.linkedin.com/in/abdelrahmaneldaba)
-- **Team Members:** [Member 1], [Member 2], [Member 3], ...
+- **Team Leader:** [Abdelrahman Eldaba](https://www.linkedin.com/in/abdelrahmaneldaba)
+- **Team Members:** [Ahmed Selem](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Mohammed Hamza](https://www.linkedin.com/in/mohammed-hamza-4184b2251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Osama Abo-Bakr](https://www.linkedin.com/in/osama-abo-bakr-293614259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D), [Sayed Ali](https://www.linkedin.com/in/sayed-ali-482668262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BFTWf1FHzSFe6LQtj0fPnpQ%3D%3D)
 
