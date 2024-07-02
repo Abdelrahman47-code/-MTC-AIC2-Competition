@@ -29,3 +29,10 @@ This repository contains the code and documentation for our Automatic Speech Rec
 - Frameworks and Libraries: Utilized TensorFlow/Keras for deep learning, librosa for audio processing, and various utility libraries for data handling and evaluation.
 - Code Structure: Organized codebase into modular components for data preprocessing, model training, evaluation, and inference.
 - Folder Structure: Utilized chunked folder organization for the train dataset to manage large data volumes efficiently.
+
+---
+
+## Team Members:
+- **Team Lead:** [Abdelrahman Eldaba](https://www.linkedin.com/in/abdelrahmaneldaba)
+- **Team Members:** [Member 1], [Member 2], [Member 3], ...
+
