@@ -7,7 +7,7 @@ This repository contains the code and documentation for our Automatic Speech Rec
 ![image](https://miro.medium.com/v2/resize:fit:828/format:webp/1*KndD0pTUyTHI8p9-f_u_6g.jpeg)
 
 ## System Architecture:
-- Dataset Preparation: The train dataset, consisting of over 50,000 WAV files, was divided into chunks of 5,000 files each for easier management and uploading to Kaggle.
+- Dataset Preparation: The training dataset, consisting of over 50,000 WAV files, was divided into chunks of 5,000 files each for easier management and uploading to Kaggle.
 - Preprocessing: Audio files were preprocessed using librosa for loading, normalizing, trimming silence, and reducing noise.
 - Model Training: Used TensorFlow/Keras for training a speech-to-text model. The model architecture included custom preprocessing layers and a deep learning model optimized for sequence-to-sequence tasks.
 - Training Details: Training involved data augmentation, such as spectrogram padding and label indexing, to handle varying audio lengths and transcription labels.
@@ -21,6 +21,7 @@ This repository contains the code and documentation for our Automatic Speech Rec
 - Model Design: Designed a deep learning architecture tailored for speech recognition tasks, optimizing for both accuracy and efficiency.
 - Training Strategy: Employed early stopping, learning rate reduction, and model checkpointing during training to prevent overfitting and improve performance.
 - Reproducibility: Provided all necessary scripts, configurations, and model checkpoints to ensure reproducibility of results.
+- **arbml/wav2vec2-large-xlsr-53-arabic-egyptian:** Used for Arabic (Egyptian dialect) speech recognition  to supplement and augment the overall system's capabilities.
   
 ---
 
